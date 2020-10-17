@@ -4,8 +4,6 @@ import { ContactsComponent } from './contacts/contacts.component';
 import { HomeComponent } from './home/home.component';
 
 const routes: Routes = [
-  {path: '' , component: HomeComponent},
-  {path:'contacts' , component: ContactsComponent},
 ];
 
 @NgModule({
