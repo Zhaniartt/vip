@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "vip-building-group"
+    }
+  },
+  "defaultProject": "vip-building-group",
+  "cli": {
+    "analytics": false
+  }
 }
